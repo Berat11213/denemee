@@ -1,0 +1,45 @@
+{
+    "BotSettings": {
+        "token": "MTExMTM5MzE4OTc0NDYyNzc0Mg.GNxA1l.jbSGxGAHiCejDzZRLiFYEQHpebc_ERQ7TELTF8",
+        "owner": "743509165774733354",
+        "prefix": "!",
+        "botStatus": "KAHTFamily",
+        "botVoiceChannelID": "858047941159288924"
+    },
+    "Roles": {
+        "BoyRole1": "858047772775415828",
+        "BoyRole2": "858047772775415828",
+        "GirlRole1": "858047776780582932",
+        "GirlRole2": "858047776780582932",
+        "Unregister": "858047731012599818",
+        "Registerer": "858047711516688474",
+        "TagRole": "1005391343427797134",
+        "Suspicious": "1005391342991581210",
+        "Jail": "1005391342991581210"
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "KAHT Family",
+            "ServerID": "857034929912545340",
+            "Tag": "TAG",
+            "UnTag": "UNTAG"
+    },
+        "Channels": {
+            "RegisterChat": "859116870740082729",
+            "TagLog": "858047929192284160",
+            "Rules": "858047905440333864",
+            "GeneralChat": "858047934754193429"
+        },
+        "Welcome": {
+            "WelcomeChat": "859116870740082729",
+            "WelcomeName": "• İsim | Yaş"
+        }
+}
